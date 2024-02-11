@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/osogostok/s21_STL_containers">
-    <img src="./imgs/logo.png" alt="Logo" width="100" height="100">
+    <img src="./imgs/logo_1.png" alt="Logo">
   </a>
 
   <h3 align="center">STL Containers</h3>
