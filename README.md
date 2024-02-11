@@ -5,10 +5,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/osogostok/s21_STL_containers">
-    <img src="./imgs/logo_.png" alt="Logo">
+    <img src="./materials/imgs/logo_.png" alt="Logo">
   </a>
 
-  <h3 align="center">STL Containers</h3>
+  <!-- <h3 align="center">STL Containers</h3> -->
 
   <p align="center">
     Реализация стадартной библиотеки шаблонов С++

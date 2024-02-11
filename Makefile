@@ -50,7 +50,7 @@ $(LIBRARY_NAME): $(OBJ_FILES)
 	@$(CC) $(OPTION_FLAGS) $(CPP_FLAGS) -c $<
 
 clang:
-	@bash clang.sh 
+	@bash ./tests/clang.sh 
 	
 gcov_report: clean
 	@$(CC) $(OPTION_FLAGS) $(GCOV_FLAGS) s21_test.cc $(SRC_ALL_FILES) -o test $(GTEST_FLAGS) $(CPP_FLAGS) $(TEST_FLAGS)
